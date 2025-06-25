@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPU算法实现", "CPU算法实现.vcxproj", "{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Debug|x64.ActiveCfg = Debug|x64
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Debug|x64.Build.0 = Debug|x64
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Debug|x86.ActiveCfg = Debug|Win32
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Debug|x86.Build.0 = Debug|Win32
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Release|x64.ActiveCfg = Release|x64
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Release|x64.Build.0 = Release|x64
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Release|x86.ActiveCfg = Release|Win32
+		{3DDF3F22-019C-4FC5-8CF7-C0DAD5D5514B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE950C9-4DDB-44F4-9E82-0C0DF71C3E67}
+	EndGlobalSection
+EndGlobal

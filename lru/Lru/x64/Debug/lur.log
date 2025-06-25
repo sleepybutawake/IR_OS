@@ -1,0 +1,3 @@
+﻿  lru3.cpp
+C:\Users\银睿妍\Desktop\临时文档\lur\lru3.cpp(114,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  lur.vcxproj -> C:\Users\银睿妍\Desktop\临时文档\lur\x64\Debug\Lru.exe
